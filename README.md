@@ -1,1 +1,1 @@
-# wwek2-energy-consumption-powerbi
+# week2-energy-consumption-powerbi
